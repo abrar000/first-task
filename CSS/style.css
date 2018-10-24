@@ -1,0 +1,38 @@
+body{
+    background: rgba(221, 190, 190, 0.89);
+}
+h1{
+    text-align: center;
+    color: rosybrown;
+    background-color: black;
+    margin: 1rem;
+    padding: 2rem;
+}
+p{
+    margin: 1rem;
+    padding: auto;
+    background: rgb(233, 227, 227);
+    font-family: cursive;
+    word-spacing: 2px;
+}
+img{
+    width: 20rem;
+    height: 10rem;
+   
+    margin:auto;
+    padding-left: 20rem;
+    padding-top: 2rem;
+   border-radius: 2rem;
+    
+}
+hr{
+width: 50%;
+}
+h2{
+    text-align: center;
+    color: blue;
+    
+}
+h3{
+    text-align: center;
+}
